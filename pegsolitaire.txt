@@ -1,0 +1,11 @@
+This app only stores information internally, no information leaves the app.
+
+Information that is stored is:
+  - The status of the most reason unfinished game.
+  - Highscore with name/tag of your choice, points achieved and time needed..
+
+The highscores can be deleted by pressing for more than 10 seconds on the name of the solitaire for which you want to delete the highscores.
+
+The data will not be used for any other purpose than to display the highscore in the app.
+
+For further questions please contact sebastian.johann93@gmail.com.
